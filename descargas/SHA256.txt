@@ -1,0 +1,2 @@
+68d34e62d43823811a030e5289280ae038660e4c8e0820cedfaa6cb5cce8b199  Situacion-Chiapas-Instalador.zip
+dc6f9c53902296ea6b02449b7e51b0ec3f19213873e981caec6612be6fe32be6  Situacion-Chiapas-Windows-Instalador.exe
